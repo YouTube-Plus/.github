@@ -1,4 +1,4 @@
-<p align="center"><a href="https://yt.plus" target="_blank"><img src="banner.png?raw=true" alt="YouTube+ banner"></a></p>
+![YouTube+ Banner](https://github.com/YouTube-Plus/.github/blob/main/profile/banner.png?raw=true)
 
 # 🔭 Goals
 
