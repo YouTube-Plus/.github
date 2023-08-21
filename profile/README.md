@@ -1,4 +1,4 @@
-<p align="center"><a href="https://yt.plus" target="_blank"><img src="banner.png" alt="YouTube+ banner"></a></p>
+<p align="center"><a href="https://yt.plus" target="_blank"><img src="banner.png?raw=true" alt="YouTube+ banner"></a></p>
 
 # 🔭 Goals
 
